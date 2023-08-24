@@ -1,0 +1,10 @@
+Write a java program to display all types of primitive data types with their maximum and minimum values. 
+Mention all 8 types of data type i.e.,
+char
+byte
+short
+int 
+long
+float
+double 
+boolen

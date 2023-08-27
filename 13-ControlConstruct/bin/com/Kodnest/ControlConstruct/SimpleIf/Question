@@ -1,0 +1,2 @@
+Write a java Program to take integer, marks as input.
+If marks is less than 80, print "Welcome to Kodnest" Otherwise print Welcome to Kodnest along with Welcome to Techclub.
